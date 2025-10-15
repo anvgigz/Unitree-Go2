@@ -1,0 +1,15 @@
+# Core dependencies for Unitree Go2 robot control
+numpy>=1.21.0
+# Add robotics-specific dependencies as needed
+# Examples:
+# unitree-sdk-python  # If official SDK is available
+# opencv-python>=4.5.0  # For vision tasks
+# pyserial>=3.5  # For serial communication
+# pybullet>=3.2.0  # For simulation
+
+# Development dependencies (optional - move to requirements-dev.txt if needed)
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
