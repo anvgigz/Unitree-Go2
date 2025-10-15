@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ROS integration
 - GUI control interface
 
-## [0.1.0] - 2024-01-15
+## [0.1.0] - 2024-10-15
 
 ### Added
 - Initial project structure for team collaboration
@@ -77,6 +77,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Documentation updates
 - Performance improvements
 
----
 
-For upgrade instructions and migration guides, see [docs/UPGRADING.md](docs/UPGRADING.md) (to be created).

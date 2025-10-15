@@ -212,7 +212,7 @@ pip install -e .
 
 ### Getting Help
 
-- Read the [documentation](../docs/)
+- Read the [Getting Started guide](../docs/GETTING_STARTED.md)
 - Check [GitHub Issues](https://github.com/anvgigz/Unitree-Go2/issues)
 - Review [CONTRIBUTING.md](../CONTRIBUTING.md)
 
@@ -229,7 +229,7 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for detailed guidelines.
 
 ## Additional Resources
 
-- [API Reference](../docs/) - Detailed API documentation
+- [README](../README.md) - Project overview and API reference
 - [Getting Started](../docs/GETTING_STARTED.md) - Setup guide
 - [Project Structure](../docs/PROJECT_STRUCTURE.md) - Project organization
 
